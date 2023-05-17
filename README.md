@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/yash_mangroliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_mangroliya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-mangroliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-mangroliya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yash magroliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yash magroliya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yash-magroliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yash magroliya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
